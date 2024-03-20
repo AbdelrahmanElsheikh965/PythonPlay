@@ -32,11 +32,6 @@ def createProject(title,	details,	total_target,	start_date,	end_date, user_id):
   print(c.rowcount, "record inserted.")
   print("Last Row Id", c.lastrowid)
   
-# now = datetime.now()
-# formatted_date = now.strftime('%Y-%m-%d %H:%M:%S')
-# createProject("tt", "dkdkmmmmmmmmmmm", 987987, formatted_date, formatted_date, 5)
-
-
 # User can view all projects
 def viewAllProjects():
   sql = "SELECT * FROM projects"
