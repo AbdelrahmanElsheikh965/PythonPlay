@@ -1,4 +1,4 @@
-## Some Programs written in Python
+## Simple Programs written in Python
 
 ### Crowd-Funding Console App (CCA)
 
