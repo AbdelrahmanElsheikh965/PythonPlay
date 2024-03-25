@@ -1,5 +1,6 @@
 ## Simple Programs written in Python
 
+### Part one is just a script containing mini solved problems
 ### Crowd-Funding Console App (CCA)
 
 This app includes the following features:
