@@ -1,7 +1,6 @@
 ## Simple Programs written in Python
 
-### Part-1 is just a script containing mini-solved problems
-### Part-2 is just a script containing mini-solved problems too
+### Part-1, Part-2 are just a script containing mini-solved problems.
 
 ### Crowd-Funding Console App (CCA)
 
