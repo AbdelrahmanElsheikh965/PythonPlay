@@ -4,6 +4,8 @@
 
 ### Crowd-Funding Console App (CCA)
 
+YT Link: https://www.youtube.com/watch?v=yLirxRJkmsM&t=22s
+
 This app includes the following features:
 1. Authentication System
     * Registration
